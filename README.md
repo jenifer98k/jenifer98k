@@ -94,6 +94,7 @@ As a passionate **MERN Stack Developer** with **1.5+ years** of hands-on experie
 ---
 
 ### ⚡ Fun Animation  
-![snake gif](https://github.com/jenifer98k/jenifer98k/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jenifer98k/jenifer98k/blob/output/dist/github-contribution-grid-snake.svg)
+
 
 </div>
