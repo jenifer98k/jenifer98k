@@ -8,7 +8,7 @@
 ---
 
 ### 🖋 **Professional Summary**
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140047.png" width="30"/>  
 As a passionate **MERN Stack Developer** with **1.5+ years** of hands-on experience, I specialize in building **scalable**, **responsive**, and **user-centric** web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
 ✔ Delivered impactful projects for **TDCC Bank**, **AIMAN College**, and **Anna University**.  
 ✔ Certified **MERN Developer** from **GUVI**.  
@@ -63,7 +63,7 @@ As a passionate **MERN Stack Developer** with **1.5+ years** of hands-on experie
 ---
 
 ### 🎓 **Certification**
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140047.png" width="30"/>  
 **MERN Stack Development – GUVI (2021-2022)**  
 ✅ Completed Successfully | [📄 View Certificate](#)
 
