@@ -1,85 +1,84 @@
-# Hi, I'm Jenifer A 👋  
-**Front-End & MERN Stack Developer** | HTML | CSS | JavaScript | React.js | Node.js | MongoDB | Bootstrap  
+<div align="center">
 
-📍 Tiruchirapalli, India  
-📧 joyjenifermiracle@gmail.com | 📱 6374193093  
-[LinkedIn](https://www.linkedin.com/in/jenifer7/) | [GitHub](https://github.com/jenifer98k/)  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BC4F7&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;I'm+Jenifer+Albatross;MERN+Stack+Developer+%7C+UI+Designer;1.5%2B+Years+Experience;Passionate+About+Web+Development+%26+Tech!)](https://git.io/typing-svg)
 
----
-
-## 🔹 About Me  
-I am a passionate MERN Stack Developer with 1.5+ years of hands-on experience building **scalable, responsive, and user-centric web applications**. I have successfully delivered projects for **TDCC Bank, Anna University, Aiman College, and Lumex Technology**, creating modern, reusable UI components and integrating seamless backend functionality.  
-
-I am also a certified MERN Developer from **GUVI**.  
-I enjoy solving problems, mentoring others, and building applications that make an impact.  
+<img src="https://komarev.com/ghpvc/?username=jenifer98k&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 ---
 
-## 💼 Experience  
-**ILIFE Technologies** | Web Designer & UI Developer  
-*Aug 2023 – Jan 2025 | Tiruchirapalli*  
-
-**GJ Global IT Ventures** | React JS Intern  
-*Jan 2023 – Apr 2023 | Kerala*  
-
----
-
-## 🛠 Projects  
-
-### 🔗 [TDCC Bank Website](https://www.tdccbank.in/) | *Front-End Developer*  
-Responsive public banking portal with backend integration.  
-
-### 🔗 [Anna University, Ariyalur Website](https://www.auucea.edu.in/) | *Front-End Developer*  
-UI/UX-focused educational website optimized for mobile & desktop.  
-
-### 🔗 [Aiman College SSR Website](https://www.aimancollege.edu.in/ssr) | *Front-End Developer*  
-SSR-focused responsive website adhering to academic web standards.  
-
-### 🔗 [Lumex Technology – IT Solutions Website](https://lumex-zeta.vercel.app/) | *React Developer*  
-Developed a modern, responsive corporate website to showcase IT services and projects.  
-- Built sections for **About, Services, Projects, Contact**  
-- Integrated **Framer Motion animations** for enhanced interactivity  
-- **Tech Stack**: React, Vite, Tailwind CSS, Swiper, Sass, Framer Motion  
-
-### MERN Projects  
-- [E-Commerce Website](https://ecom-frontend-six-dusky.vercel.app/) – Secure eCommerce, Admin Panel, Authentication, Responsive  
-- [Three.js 3D Portfolio](https://threejsportfolio-iota.vercel.app/) – Interactive 3D portfolio built with Three.js  
+### 💻 **About Me**
+🔹 **MERN Stack Developer** with 1.5+ years of experience in designing and building scalable, responsive, and user-centric web applications.  
+🔹 Delivered impactful projects for **TDCC Bank**, **Anna University**, and **AIMAN College**.  
+🔹 Certified **MERN Stack Developer** from **GUVI**.  
+🔹 Passionate about **Web Development**, **UI/UX**, and **Training Students**.  
 
 ---
 
-## 🎓 Certification  
-**GUVI** – MERN Stack Development | 2021-2022 | Chennai  
-[View Certificate](#)  
+### 🏢 **Experience**
+- **ILIFE Technologies** | *Web Designer & UI Developer*  
+  📅 *Aug 2023 – Jan 2025 | Tiruchirapalli*  
+
+- **GJ Global IT Ventures** | *React JS Intern*  
+  📅 *Jan 2023 – Apr 2023 | Kerala*  
 
 ---
 
-## 💻 Skills  
-
-**Front-End:** HTML | CSS | Bootstrap | JavaScript | jQuery | React.js  
-**Back-End:** Node.js | Express.js | MongoDB | SQL | MySQL  
-**Tools & Technologies:** Git/GitHub | VS Code | Postman | REST APIs  
-
----
-
-## 🏆 Achievements  
-- **Workshop Trainer**: Conducted Web Development sessions for college students at ILife Technologies  
-- **Tech Trainer**: Provided React JS training and mentorship to students on front-end development  
+### 🚀 **Projects**
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **TDCC Bank Website** | Responsive Banking Portal with Backend Integration | [Visit Site](https://www.tdccbank.in/) |
+| **Anna University Website** | UI/UX-focused Educational Website | [Visit Site](https://www.auucea.edu.in/) |
+| **AIMAN College SSR Website** | SSR-based Responsive Academic Website | [Visit Site](https://www.aimancollege.edu.in/) |
+| **E-commerce Website** | Secure MERN eCommerce App with Admin Panel, Auth, Stripe | [Live Demo](https://ecom-frontend-six-dusky.vercel.app/) |
+| **Three.js 3D Portfolio** | 3D Animated Portfolio using Three.js | [Live Demo](https://threejsportfolio-iota.vercel.app/) |
 
 ---
 
-## ⚡ Professional Strengths  
-- Time Management  
-- Team Collaboration  
-- Problem Solving  
-- Adaptability  
-- Leadership  
+### 🛠 **Tech Stack**
+#### ✅ Frontend:
+HTML | CSS | Bootstrap | JavaScript | jQuery | **React.js**
+
+#### ✅ Backend:
+Node.js | Express.js | MongoDB | MySQL | REST APIs
+
+#### ✅ Tools:
+Git & GitHub | VS Code | Postman
 
 ---
 
-## 📂 Quick Links  
-- [GitHub](https://github.com/jenifer98k/)  
-- [LinkedIn](https://www.linkedin.com/in/jenifer7/)  
-- Portfolio / Live Projects:  
-  - [E-Commerce](https://ecom-frontend-six-dusky.vercel.app/)  
-  - [Three.js Portfolio](https://threejsportfolio-iota.vercel.app/)  
-  - [Lumex Technology](https://lumex-zeta.vercel.app/)  
+### 🎓 **Certification**
+- **MERN Stack Development** – GUVI (2021-2022)  
+[View Certificate](#)
+
+---
+
+### 🏆 **Achievements**
+- ✅ **Workshop Trainer** – Conducted Web Development Sessions at ILife Technologies  
+- ✅ **React JS Trainer** – Mentored students on Front-end Development  
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jenifer98k&show_icons=true&theme=radical" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jenifer98k&theme=radical" width="49%">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifer98k&layout=compact&theme=radical" width="49%">
+</p>
+
+---
+
+### 🌍 **Connect With Me**
+<p align="center">
+<a href="https://www.linkedin.com/in/jenifer7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://github.com/jenifer98k" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+### ⚡ Fun Animation  
+![snake gif](https://github.com/jenifer98k/jenifer98k/blob/output/github-contribution-grid-snake.svg)
+
+</div>
